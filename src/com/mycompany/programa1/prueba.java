@@ -39,7 +39,7 @@ public class prueba extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(153, 255, 255));
 
-        jPanel1.setBackground(new java.awt.Color(153, 255, 153));
+        jPanel1.setBackground(new java.awt.Color(0, 0, 255));
 
         salida.setEditable(false);
         salida.setColumns(20);
@@ -72,7 +72,7 @@ public class prueba extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Segoe Script", 0, 12)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Ingresa los datos mediante el textFiel y preciona el boton para ingresarlos");
+        jLabel1.setText("USA EL BOTON PARA AÑAIR NUMEROS");
         jLabel1.setVerticalAlignment(javax.swing.SwingConstants.TOP);
 
         jButton1.setText("Numeros");
