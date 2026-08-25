@@ -39,7 +39,7 @@ public class prueba extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(153, 255, 255));
 
-        jPanel1.setBackground(new java.awt.Color(204, 0, 204));
+        jPanel1.setBackground(new java.awt.Color(153, 255, 153));
 
         salida.setEditable(false);
         salida.setColumns(20);
@@ -100,7 +100,7 @@ public class prueba extends javax.swing.JFrame {
                                 .addGap(18, 18, 18)
                                 .addComponent(jButton1)))
                         .addGap(18, 18, 18)
-                        .addComponent(text, javax.swing.GroupLayout.PREFERRED_SIZE, 278, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(text, javax.swing.GroupLayout.PREFERRED_SIZE, 163, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addComponent(jLabel1))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
